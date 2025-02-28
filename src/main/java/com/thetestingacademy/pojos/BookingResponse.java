@@ -1,4 +1,4 @@
-package POJO_HW;
+package com.thetestingacademy.pojos;
 
 public class BookingResponse {
     public Integer getBookingid() {

@@ -1,2 +1,4 @@
-package com.thetestingacademy.tests.integration;public class TCIntegrationFlow {
+package com.thetestingacademy.tests.integration;
+
+public class TCIntegrationFlow {
 }

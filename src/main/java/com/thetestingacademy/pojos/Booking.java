@@ -1,8 +1,5 @@
-//package POJO_HW;
-//
-//public class Booking {
-//}
-package POJO_HW;
+
+package com.thetestingacademy.pojos;
 
 
 import com.google.gson.annotations.Expose;
